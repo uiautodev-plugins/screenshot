@@ -3,7 +3,7 @@
   "name": "截图",
   "version": "1.0.0",
   "description": "截图管理插件，支持截图、下载和删除",
-  "homepage": "",
+  "homepage": "https://github.com/uiautodev-plugins/screenshot",
   "display": "tab",
   "main": "index.html"
 }
