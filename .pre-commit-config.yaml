@@ -1,0 +1,9 @@
+repos:
+  - repo: local
+    hooks:
+      - id: format
+        name: npm run format
+        entry: npm run format
+        language: system
+        files: \.(ts|tsx|html|json|css)$
+        pass_filenames: false
