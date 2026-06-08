@@ -1,8 +1,9 @@
 {
   "$schema": "http://localhost:33299/plugin.schema.json",
-  "name": "Template Plugin",
+  "name": "截图",
   "version": "1.0.0",
-  "description": "A uiautodev plugin template with Preact and Tailwind CSS",
+  "description": "截图管理插件，支持截图、下载和删除",
   "homepage": "",
+  "display": "tab",
   "main": "index.html"
 }
